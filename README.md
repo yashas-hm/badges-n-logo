@@ -2,4 +2,4 @@
 
 | Name | Badge | Link |
 | :---: | :---: | :---: |
-| Android | ![Android](https://github.com/yashas-hm/badges-n-logo/blob/main/android.svg) | `![Android](https://github.com/yashas-hm/badges-n-logo/blob/main/android.svg)` |
+| Android | ![Android](https://raw.githubusercontent.com/yashas-hm/badges-n-logo/main/android.svg) | `![Android](https://raw.githubusercontent.com/yashas-hm/badges-n-logo/main/android.svg)` |
